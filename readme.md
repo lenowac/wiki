@@ -13,7 +13,7 @@ If you want more carefully written articles, have a look at my [BLOG](https://bl
 - [Privacy overview](./privacy/privacy-index)
 - [awesome-linux](./privacy/awesome-linux)
 - [privacy focussed eMail providers](./privacy/secure-email)
-- [Notizen aus einem Privatsphäre Workshop](./privacy/privacy-workshop-de)
+- [Notizen aus einem Privatsphäre Workshop](./privacy/workshop-notes-de)
 
 ### Selfhosting
 I implemented certain things for some reason and id like to make the process as clear as possible to anyone who may ever have to maintain infrastructure set up by myself.
