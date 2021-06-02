@@ -7,9 +7,9 @@ module.exports = {
   pathPrefix: `/`, // b. If you are using Netlify/Vercel, your can keep it this way
   siteMetadata: {
     // some SEO configs using by gatsby-theme-kb
-    title: `Notes`, // Replace it with your site's title
+    title: `MY NOTES`, // Replace it with your site's title
     author: `lenowac`, // Replace it with your name
-    description: `personal knowledge base`, // Replace it with your site's description
+    description: `Decided to note some things here`, // Replace it with your site's description
   },
   plugins: [
     {
