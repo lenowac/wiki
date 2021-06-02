@@ -8,7 +8,7 @@ The easiest way I found is to edit your .htaccess file and add this line:
 Header set Permission-Policy: interest-cohort=()
 ```
 
-<br>
+<br/>
 
 stuebinm pointed out that you can do that in nginx with:
 
@@ -16,11 +16,11 @@ stuebinm pointed out that you can do that in nginx with:
 add_header Permissions-Policy "interest-cohort=()";
 ```
 
-<br>
+<br/>
 
 if you know of different circumstances that need different solutions, feel free to add them :)
 
-<br>
+<br/>
 
 ## Sources
 

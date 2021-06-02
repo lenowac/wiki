@@ -24,7 +24,7 @@ View this as my part to kill (unintended) knowledge hierarchies :)
 - [Selfhosting overview](./selfhosting/index-selfhosting.md)
 - [Containered apps with Docker](./selfhosting/applications/container-apps-docker.md)
 
-<br>
+<br/>
 
 ## Random Stuff
 
@@ -40,7 +40,7 @@ View this as my part to kill (unintended) knowledge hierarchies :)
 - [Alt+F --> Win+W](./computer/win+w-close.md)
 - [WSL Workarounds](./computer/wsl-stuff.md)
 
-<br><br>
+<br/><br/>
 
 <details> <summary> conventions </summary>
 

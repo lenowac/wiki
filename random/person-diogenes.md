@@ -8,7 +8,7 @@ modified: 2021-04-09T12:16:11+02:00
 
 There are numerous stories about a mate commonly called "Diogenes the Cynic", and although its disputable that he actually existed, the stories and their value is still great. Moving on...
 
-<br>
+<br/>
 
 Diogenes was quite the madlad, he basically fucked with everyone including the most powerful rulers and got away with it.
 
@@ -30,7 +30,7 @@ When asked how he wished to be buried, he left instructions to be thrown outside
 
 **Minimalism** _He destroyed the single wooden bowl he possessed on seeing a peasant boy drink from the hollow of his hands._ [[1 [23]]](https://en.m.wikipedia.org/wiki/Diogenes#cite_note-23)
 
-<br>
+<br/>
 
 ## Sources
 

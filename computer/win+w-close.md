@@ -12,7 +12,7 @@
 return
 ```
 
-<br>
+<br/>
 
 if you are interested in more, here's a quick symbol rundown:
 
@@ -26,6 +26,6 @@ if you are interested in more, here's a quick symbol rundown:
 
 [or go read the whole thing](https://www.autohotkey.com/docs/Hotkeys.htm#Symbols)
 
-<br><br>
+<br/><br/>
 
 now enjoy not crippiling your hand every time you want to close a window
