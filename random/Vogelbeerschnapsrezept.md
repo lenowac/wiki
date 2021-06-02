@@ -12,6 +12,6 @@ Wundervolles Wort, besonders im Suff.
 - Durch den Kaffefilter Filtern,
 - bisschen Wasser
 
-
 ## Quellen
-* Oma und Opas schnäpse
+
+- Oma und Opas schnäpse

@@ -8,4 +8,4 @@ modified: 2021-04-21T20:41:07+02:00
 
 ...ist Opium für's Volk.
 
-*- Karl Marx*
+_- Karl Marx_

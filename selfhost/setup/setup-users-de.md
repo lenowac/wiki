@@ -6,8 +6,8 @@ keywords:
   - selfhosting
   - linux
 ---
-# Users
 
+# Users
 
 - root user hat keine admin rechte
 - es gibt ein sudo account, jedoch nicht unter root/admin/klarnamen
@@ -15,19 +15,19 @@ keywords:
 Warum? Vermeidung von brute force: es muss nun username und passwort geknackt werden.
 
 ## root : whats in the folders
+
 ideally nothing.
 
-## _ : whats in the folders
+## \_ : whats in the folders
 
 ~/configuration
-*(git repo with all config files, subfolders symlink to respective locations)*
+_(git repo with all config files, subfolders symlink to respective locations)_
 
-~/development 
-*(for testing out stuff, e.g.: LXC containers)*
-	/ynh-dev --> YunoHost Container Files
+~/development
+_(for testing out stuff, e.g.: LXC containers)_
+/ynh-dev --> YunoHost Container Files
 
 ~/Download
-*(if needed, curl stuff here)*
-
+_(if needed, curl stuff here)_
 
 Achte auf groß/kleinschreibung! Bei linux sind die Userordner (Documents, Downloads, Pictures, etc) immer groß geschrieben. Alles andere kann ja kleingeschrieben werden, aber das sollte beachtet werden.
