@@ -1,5 +1,4 @@
 ---
-title: "Hello!"
 modified: 2021-03-28T18:55:02+02:00
 ---
 
@@ -7,7 +6,7 @@ modified: 2021-03-28T18:55:02+02:00
 
 Over time, I looked up, learned and created some things for various reasons or projects. There are also things I have answered a lot,
 Along the way I decided to take some public notes, here you can find those. 
-If you want more carefully written articles, have a look at my [BLOG](blog.decided.to).
+If you want more carefully written articles, have a look at my [BLOG](https://blog.decided.to).
 
 ### Privacy
 
