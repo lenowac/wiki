@@ -30,4 +30,4 @@ If you want more carefully written articles, have a look at my [BLOG](https://bl
 <br/>
 
 -------
-(c) lenowac 2021 | [license](https://decided.to/license) | [about](https://decided.to/license)
+(c) lenowac 2021 | [license](https://decided.to/license) | [about](https://decided.to/about)
