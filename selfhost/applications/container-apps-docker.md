@@ -28,7 +28,7 @@ test docker compose:
 
 ## Docker Security
 20210328203831
-system security: [[20210328203150]] in [system-security.md]
+system security: [[20210328203150]] in [[system-security]]
 * General: https://docs.docker.com/engine/security/
 * Docker daemon socket: https://docs.docker.com/engine/security/https/
 * Dockerfile best practices: https://sysdig.com/blog/dockerfile-best-practices/

@@ -1,4 +1,4 @@
-# Messengervergleich
+# Messengervergleich [de]
 Tipp: es gibt auch einen [blogpost dazu](https://listed.to/@lenowac/25576/messengerdebatte) der etwas weniger technisch ist und ein kleines Fazit zieht :)
 
 ## Populäre Messenger

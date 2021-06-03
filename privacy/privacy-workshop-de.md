@@ -1,6 +1,5 @@
 ---
 id: 20210328214843
-title: "Notizen aus einem Privatsphäre Workshop"
 created: 2021-01-19
 keywords:
   - notes
@@ -8,7 +7,8 @@ keywords:
   - privacy
 
 ---
-# Notizen aus einem Privatsphäre Workshop
+# Workshop Notizen [de]
+Notizen aus einem Privatsphäre Workshop
 
 # Daten überprüfen
 t1p.de/lys

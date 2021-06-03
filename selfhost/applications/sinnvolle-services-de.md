@@ -5,7 +5,7 @@ keywords: [guide, redundant, selfhosting, linux]
 modified: 2021-03-29T00:27:07+02:00
 ---
 
-# Sinnvolle services
+# Sinnvolle services [de]
 0ka = zero knowledge architecture
 
 |        | Service     | Zweck                                                | Notizen               |

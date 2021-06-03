@@ -9,22 +9,20 @@ keywords:
 
 ---
 
-# Improve your system security
+# Systemsicherheit [de]
 *Don't be a fucking idiot and then some* 
 
-make sure you [set up your ssh correctly](./setup-ssh.md)
+important: read [[setup-ssh]]!
 
 ## Fail2ban
-20210328203159
-
 *Prevent spam, DDoS or Brute Force attacks*
 > $ sudo apt install fail2ban
 > $ sudo systemctl enable fail2ban
 > $ sudo systemctl start fail2ban
 
 ## UFW Firewall
-20210328204340
-### Management
+*Essential commands*
+
 * ufw allow
 * ufw deny
 * ufw status
@@ -33,7 +31,7 @@ make sure you [set up your ssh correctly](./setup-ssh.md)
 * ufw default allow outgoing
 * ufw limit 
 
-### Explizit Zugelassen
+Personally, I **allow:**
 * 22/tcp SSH
 * 25 SMTP
 * 143 IMAP
@@ -41,10 +39,10 @@ make sure you [set up your ssh correctly](./setup-ssh.md)
 * 443/tcp HTTPS
 
 
-### Explizit Verboten (außer temporär zu dev-zwecken)
-* 80/tcp http <-- unsicher
+and **deny**
+* 80/tcp HTTP <-- insecure
 
-Standard: deny incoming, allow outgoing
+and set the **standard**: deny incoming, allow outgoing
 
-## Docker Security
-can be found here:[[20210328203831]] in [container-apps-docker.md]
+## Docker 
+is a special kind of fun and can be found here: [[container-apps-docker]]
