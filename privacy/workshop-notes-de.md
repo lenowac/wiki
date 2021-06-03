@@ -22,7 +22,6 @@ https://dud.inf.tu-dresden.de/escape/LeakYourself.html
 * veracrypt für die festplatte oder usb sticks
 * extrem: stenografie betreiben
 * email: pgp nutzen
-* demos: nicht einfach mit dem handy hinrennen [[opsec-demo]]
 
 ### Browser Addons
 * Privacy badger
