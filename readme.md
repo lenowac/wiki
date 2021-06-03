@@ -1,14 +1,15 @@
 ---
-modified: 2021-06-03T02:49:08+02:00
+modified: 2021-06-03T10:50:03+02:00
 ---
 
 # Hello!
 
-Over time, I looked up, learned and created some things for various reasons or projects. There are also things I have answered a lot,
-Along the way I decided to take some public notes, here you can find those. 
+Over time, I looked up, learned and created some things for various reasons or projects. There are also things Im tired of answering again.
+
+Along the way I *decided to note* some things, and here you can find those.
 If you want more carefully written articles, have a look at my [BLOG](https://blog.decided.to).
 
-IF YOU DONT SEE THE MENU, ROTATE YOUR DEVICE. Its a bug on mobile devices....
+IF YOU DONT SEE THE MENU, ROTATE YOUR DEVICE. You can then rotate it back, it's a bug on mobile devices....
 
 <details> <summary> >> conventions </summary>
 
