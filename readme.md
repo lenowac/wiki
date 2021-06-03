@@ -45,4 +45,4 @@ My default is english, it's easier with IT related stuff. For my fellow germans:
 <p> </p>
 
 -------
-(c)lenowac 2021 | [license](https://decided.to/license) | [about](https://decided.to/license)
+(c) lenowac 2021 | [license](https://decided.to/license) | [about](https://decided.to/license)
