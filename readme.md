@@ -10,39 +10,24 @@ Along the way I ***decided to note*** some things, on this site you can find som
 
 IF YOU DONT SEE THE MENU, ROTATE YOUR DEVICE. You can then rotate it back, it's a bug on mobile devices....
 
-<details> <summary> >> Content [en] </summary>
+<br/>
+
+## Languages
+
+My default is english, it's easier with IT related stuff. Some notes, depending on the target group, are in german. 
+If you desperatly want to read something, [deepl](https://deepl.com) exists.
 
 <br/>
+
+## Content
 
 [[_selfhosting]] covers linux servers, [[_computers]] is more desktop / end user focussed.
 If you want more carefully written articles, have a look at my [BLOG](https://blog.decided.to).
 
-</details>
+[de] [[literatur]] sollte mmn natürlich _IMMER_ sehr umständlich über die UNI VPN kommen. Wenn du welche hast, möchtest du vlt auch deine [[literatur-organisieren]].
 
 <br/>
-
-<details> <summary> >> Inhalte [de] </summary>
-
 <br/>
-
-Bei [[_selfhosting]] gibt's linux-server Kram, [[_computers]] hat eher end-user orientierte notizen. [[literatur]] sollte mmn natürlich _IMMER_ sehr umständlich über die UNI VPN kommen. Wenn du welche hast, möchtest du vlt auch deine [[literatur-organisieren]].
-
-Für etwas qualitativere Arbeit kannst du ja mal auf meinem [Blog](https://blog.decided.to) vorbeischauen.
-
-</details>
-
-<br/>
-
-<details> <summary> >> conventions </summary>
-
-<br/>
-
-### Languages
-
-My default is english, it's easier with IT related stuff. For my fellow germans: blabliblub-de zeigt dass die Datei auf Deutsch ist. Hier der Hinweis, dass [deepl](https://deepl.com) existiert.
-
-<br/><br/>
-<p> </p>
 
 -------
 (c) lenowac 2021 | [license](https://decided.to/license) | [about](https://decided.to/license)
