@@ -5,7 +5,6 @@ keywords:
   - notes
   - workshop
   - privacy
-
 ---
 # Workshop Notizen [de]
 Notizen aus einem Privatsphäre Workshop

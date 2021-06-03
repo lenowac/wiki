@@ -1,8 +1,5 @@
 ---
 id: 20210313222653
-keywords: null
-created: 2021-04-08T23:42:23+02:00
-modified: 2021-04-09T00:00:51+02:00
 ---
 
 # Hackintosh

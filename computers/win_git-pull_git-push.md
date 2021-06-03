@@ -1,14 +1,6 @@
 ---
 id: 20210328181358
-created: 2021-03-28
-title: "Automating Git push/pull with Batch"
-keywords:
-  - guide
-  - automation
-  - windows
-  - batch
-  - git
-
+keywords: [guide, automation, git]
 ---
 # Automating Git push/pull with Batch
 

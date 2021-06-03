@@ -1,10 +1,6 @@
 ---
 id: 20210328183346
-created: 2021-03-28T00:00:00+01:00
-title: "Automating my Zettelbox and Wiki"
 keywords: [guide, automation, zettlr, git]
-modified: 2021-03-28T18:53:51+02:00
-
 ---
 
 # Automating my Zettelbox and Wiki

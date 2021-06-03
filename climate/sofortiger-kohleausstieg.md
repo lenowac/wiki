@@ -1,4 +1,4 @@
-# [de] Selbst ein sofortiger Kohleausstieg reicht nicht
+# Selbst ein sofortiger Kohleausstieg reicht nicht [de]
 
 ## Komplex 1: CO2
 Der momentane CO2 wert ist schon deutlich zu hoch und hat seine volle Auswirkung noch gar nicht entfaltet
