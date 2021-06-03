@@ -7,7 +7,7 @@ modified: 2021-06-01T10:12:37+02:00
 
 # Literatur finden
 
-...ist vlt mit [academic](https://academic.microsoft.com) oder [scholar](https://scholar.google.com) einfach, aber wirklich an die texte zu kommen ist nicht immer über die UB möglich. Dinge die auf gar keinen fall dazu benutzt werden sollten: 
+...ist vlt mit [academic](https://academic.microsoft.com) oder [scholar](https://scholar.google.com) einfach, aber wirklich an die texte zu kommen ist nicht immer über die UB möglich. Dinge die auf gar keinen fall dazu benutzt werden sollten:
 
 - [scihub](https://sci-hub.do/) (wissenschaftliche literatur)
 - [z-lib](https://z-lib.org/) (wirklich alles)

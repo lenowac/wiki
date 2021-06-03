@@ -6,12 +6,12 @@ keywords:
   - selfhosting
   - linux
 ---
+
 # Random tips
-*is should read up on those* 
 
+_is should read up on those_
 
-* Make Automatic updates via cron jobs
-* Make Unattended Upgrades (Ubuntu works too) https://wiki.debian.org/UnattendedUpgrades
+- Make Automatic updates via cron jobs
+- Make Unattended Upgrades (Ubuntu works too) https://wiki.debian.org/UnattendedUpgrades
 
-
-* Use Doas instead of sudo
+- Use Doas instead of sudo

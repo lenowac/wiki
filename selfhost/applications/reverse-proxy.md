@@ -7,21 +7,24 @@ keywords:
   - linux
   - networking
 ---
+
 # Reverse proxy
-*The thing that makes app.domain.tld resolve to your application* 
+
+_The thing that makes app.domain.tld resolve to your application_
 
 there are a number of options like caddy, nginx and ofc apache.
 
 I chose npm because nginx ist fast and the gui makes it easy to set up and maintain everything.
 
-
 ## Nginx Proxy Manager
-*Web Server, Reverse Proxy*
+
+_Web Server, Reverse Proxy_
 
 Install Video: https://www.youtube.com/watch?v=P3imFC7GSr0
 Install Guide: https://nginxproxymanager.com/setup/
 
 ### Connect the rev-proxy to your container(s)
+
 examples:
 
 - sudo docker network connect portainer_default nginxproxymanager_app_1
