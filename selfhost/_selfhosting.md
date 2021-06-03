@@ -1,13 +1,10 @@
 ---
 id: 20210328205222
-title: "Selfhosting Index"
-created: 2021-03-28
-keywords:
-  - selfhosting
-  - linux
-  - index
+title: '! Start here: Selfhosting'
+created: 2021-03-28T00:00:00+01:00
+keywords: [selfhosting, linux, index]
+modified: 2021-06-03T10:52:53+02:00
 ---
-# ! Start here: Selfhosting
 
 ### Vorbereitung:
 [[sinnvolle-services-de]]
