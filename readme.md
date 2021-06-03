@@ -10,18 +10,13 @@ Along the way I ***decided to note*** some things, on this site you can find som
 
 IF YOU DONT SEE THE MENU, ROTATE YOUR DEVICE. You can then rotate it back, it's a bug on mobile devices....
 
-<details> <summary> >> <h2> Content [en] </h2> </summary>
-
-<br/>
+## Content
 
 [[_selfhosting]] covers linux servers, [[_computers]] is more desktop / end user focussed.
 If you want more carefully written articles, have a look at my [BLOG](https://blog.decided.to).
 
-</details>
 
-<br/>
-
-<details> <summary> >> <h2> Inhalte [de] </h2> </summary>
+<details> <summary> >> Inhalte [de]</summary>
 
 <br/>
 
