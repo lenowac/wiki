@@ -53,3 +53,6 @@ Wenn du dich fragst wo das eingetragen werden soll, schau dir das oben verlinkte
 * enter "%AppData%\Zotero\Zotero\Profiles\7yz0knbh.default"
 * create /chrome folder
 * copy "./chrome/userChrome.css" to the respective folder
+
+## Un nun?
+[[literatur]] beschaffen und lesen ist mmn wichtiger als "die perfekte" organisation, alo schau da vlt rein.
