@@ -1,10 +1,4 @@
 ---
-modified: 2021-06-03T02:45:18+02:00
----
-
-# Containers: LXD
-
----
 id: 20210328203320
 created: 2021-01-14
 keywords:
@@ -12,6 +6,8 @@ keywords:
   - linux
   - containers
 ---
+
+# Containers: LXD
 
 ::::warning
 This is very work in progress and needs improvement
