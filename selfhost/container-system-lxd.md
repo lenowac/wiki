@@ -1,6 +1,11 @@
 ---
+modified: 2021-06-03T02:45:18+02:00
+---
+
+# Containers: LXD
+
+---
 id: 20210328203320
-title: "LXD Containers"
 created: 2021-01-14
 keywords:
   - selfhosting
@@ -8,10 +13,12 @@ keywords:
   - containers
 ---
 
-# LXD
+::::warning
+This is very work in progress and needs improvement
+::::
 
-_System containers_
-For docker application containers, goto [[20210328203541]] container-apps-docker
+_System containers with LXC using LXD_
+For docker application containers, goto [[container-apps-docker]]
 
 ## Setup
 
