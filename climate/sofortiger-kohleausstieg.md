@@ -77,3 +77,5 @@ Cooles infomaterial: https://files.scientists4future.org/
 experimente in der schule sind teuer, mindestens mehrere hundert euro
 -> wurde fürs video ausgelien und so 
 
+-------
+Die Notizen entstanden im rahmen eines input Vortrags der scientists4future.
