@@ -33,16 +33,11 @@ Für etwas qualitativere Arbeit kannst du ja mal auf meinem [Blog](https://blog.
 
 <br/>
 
-<details> <summary> >> conventions </summary>
-
-<br/>
-
 ### Languages
 
 My default is english, it's easier with IT related stuff. For my fellow germans: blabliblub-de zeigt dass die Datei auf Deutsch ist. Hier der Hinweis, dass [deepl](https://deepl.com) existiert.
 
 <br/><br/>
-<p> </p>
 
 -------
 (c)lenowac 2021 | [license](https://decided.to/license) | [about](https://decided.to/license)
