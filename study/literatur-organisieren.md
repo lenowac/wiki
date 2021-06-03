@@ -2,7 +2,7 @@
 id: 20210603120618
 ---
 
-# Literatur Organisieren
+# Literatur organisieren
 
 [Download](https://www.zotero.org/download/)// [Fixe Biblographie](https://zbib.org)
 
