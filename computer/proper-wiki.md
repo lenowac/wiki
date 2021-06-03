@@ -24,6 +24,6 @@ But, to be honest, all of them suck. Another alternative:
 
 ### Setup
 
-The initial setup went well, thanks to the docs. But for HOURS I kept getting errors. With lots of testing what kind of things are allowed in markdown, I managed to narrow it down to `<br>`, which (if used), breaks everything, because there's no closing statement. `<br/>` Works fine, just as well as `<br></br>`. Now I imagine it will be the same for `<hr>`. Besides that, you can really throw anything in there.
+The initial setup went well, thanks to the docs. But for HOURS I kept getting errors. With lots of testing what kind of things are allowed in markdown, I managed to narrow it down to `<br/>`, which (if used), breaks everything, because there's no closing statement. `<br/>` Works fine, just as well as `<br/></br>`. Now I imagine it will be the same for `<hr>`. Besides that, you can really throw anything in there.
 
 Something to keep in mind: you NEED a title. So files without a `title: ` prematter or `<h1>` or `#` will produce errors.
