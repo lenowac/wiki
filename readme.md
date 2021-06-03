@@ -10,7 +10,7 @@ Along the way I ***decided to note*** some things, on this site you can find som
 
 IF YOU DONT SEE THE MENU, ROTATE YOUR DEVICE. You can then rotate it back, it's a bug on mobile devices....
 
-<details> <summary> >> Content [en] </summary>
+<details> <summary> >> <h2> Content [en] </h2> </summary>
 
 <br/>
 
@@ -21,7 +21,7 @@ If you want more carefully written articles, have a look at my [BLOG](https://bl
 
 <br/>
 
-<details> <summary> >> Inhalte [de] </summary>
+<details> <summary> >> <h2> Inhalte [de] </h2> </summary>
 
 <br/>
 
