@@ -4,7 +4,7 @@ id: 20210603120618
 
 # Literatur Organisieren
 
-[Download](https://www.zotero.org/download/)// [Fixe Biblographie](https://zbib.org/#)
+[Download](https://www.zotero.org/download/)// [Fixe Biblographie](https://zbib.org)
 
 **Tutorial's:**
 
@@ -23,12 +23,9 @@ id: 20210603120618
 die gesamte Bibliothek und Anhänge können über Geräte hinweg [synchronisiert werden](https://www.zotero.org/support/preferences/sync#file_syncing). #Backup
 
 * es gibt einen [storage space von zotero](https://www.zotero.org/support/sync#zotero_file_storage) der viele Vorteile für Metadaten bietet, aber für PDFs teuer ist.
-* nextcloud hat eine komatible lösung, webdav. Einige unis haben eine, zb:
-  * [Berlin](https://tubcloud.tu-berlin.de/login)
-  * [Chemnitz](https://tuc.cloud)
-  * [Landau](https://cloud.uni-landau.de/index.php/login)
+* mit Nextcloud webDAV kann viel speicher angebunden werden. [Einige unis](https://nextcloud.com/industries/education) haben eine Nextcloud Instanz, u.A. [Berlin](https://tubcloud.tu-berlin.de/login), [Chemnitz](https://tuc.cloud) und [Landau](https://cloud.uni-landau.de/index.php/login).
 
-Das tolle: beide können verwendet werden. --> Für die Bibliothek Zotero sync nehmen, für die Attachments (PDFs) WebDAV, in meinem fall über die [TUC Cloud](https://tuc.cloud)). 
+Das tolle: beide können zusammen verwendet werden. --> Für die Bibliothek Zotero sync nehmen, für die Attachments (PDFs) WebDAV, in meinem fall über die [TUC Cloud](https://tuc.cloud)). 
 Dabei musst du folgende Dinge eintragen:
 
 ```
