@@ -14,7 +14,7 @@
   },
   "cSpell.language": "en-GB",
   "git.enableSmartCommit": true,
-  "git.postCommitCommand": "sync",
+  "git.postCommitCommand": "none",
   "spellright.language": [
     "en"
   ],
