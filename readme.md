@@ -1,5 +1,5 @@
 ---
-modified: 2021-06-03T02:47:46+02:00
+modified: 2021-06-03T02:49:08+02:00
 ---
 
 # Hello!
@@ -11,6 +11,8 @@ If you want more carefully written articles, have a look at my [BLOG](https://bl
 IF YOU DONT SEE THE MENU, ROTATE YOUR DEVICE. Its a bug on mobile devices....
 
 <details> <summary> >> conventions </summary>
+
+<br/>
 
 ### internal links
 
