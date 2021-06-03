@@ -42,9 +42,9 @@ WhatsApp, Telegram: Signal ([link](https://www.signal.org/), [audit](https://epr
 
 Slack, MS Teams: [rocket.chat](https://rocket.chat/) oder [matrix](https://matrix.org/clients/) (element spaces kommen dieses jahr)
 
-Notizen: [Standardnotes](https://f-droid.org/packages/com.standardnotes/) oder [MD + Git remote](https://matrix.org/clients/)
+Notizen: [Standardnotes](https://f-droid.org/packages/com.standardnotes/) oder Markdown + Git remote
 
-Free-mail: [[20210328173248]] Privacy focused eMail
+Free-mail: [[secure-email]]
 
 Google-Docs: cryptpad.fr
 
