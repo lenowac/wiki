@@ -7,7 +7,7 @@ modified: 2021-06-03T10:52:53+02:00
 ---
 
 ### Vorbereitung:
-über [[sinnvolle-services-de]] nachdenken und mal etwas in [[awesome-linux]] reinschnuppern hilft bestimmt
+[[sinnvolle-services-de]]
 
 ### First time server setup:
 * [[setup-ssh]]
@@ -15,11 +15,11 @@ modified: 2021-06-03T10:52:53+02:00
 * [[system-security]]
 
 ### Setup applications:
-* [[setup-packages-de]]
-* [[container-apps-docker]]
-* [[reverse-proxy]]
+* [[setup-packages-de.md]]
+* [[container-apps-docker.md]]
+* [[reverse-proxy.md]]
 
-* [[container-system-lxd]]
+* [[container-system-lxd.md]]
 
 ### Maintenance tips:
-* [[random-tips]]
+* [[random-tips.md]]
