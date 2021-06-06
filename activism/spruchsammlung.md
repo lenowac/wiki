@@ -1,10 +1,12 @@
 ---
 keywords: null
 created: 2021-06-06T20:17:26+02:00
-modified: 2021-06-06T22:00:20+02:00
+modified: 2021-06-06T22:07:53+02:00
 ---
 
-# Schild-, Banner- und Stencilsprüche
+# Spruchsammlung
+
+_Schild-, Banner- und Stencilsprüche_
 
 natürlich habe ich mir nicht alle ausgedacht, das ist einfach eine Sammlung die gerne [erweitert](https://github.com/lenowac/wiki) werden kann.
 
