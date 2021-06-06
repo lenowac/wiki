@@ -1,14 +1,17 @@
 ---
 keywords: null
 created: 2021-06-06T20:17:26+02:00
-modified: 2021-06-06T20:18:14+02:00
+modified: 2021-06-06T22:00:20+02:00
 ---
 
 # Schild-, Banner- und Stencilsprüche
+
 natürlich habe ich mir nicht alle ausgedacht, das ist einfach eine Sammlung die gerne [erweitert](https://github.com/lenowac/wiki) werden kann.
 
 ## FCK NZS
-
+- queer denken statt querdenken
+- impfschutz statt grenzschutz
+- 
 
 
 ## Kapitalismuskritik
