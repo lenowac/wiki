@@ -8,15 +8,18 @@ modified: 2021-06-06T22:00:20+02:00
 
 natürlich habe ich mir nicht alle ausgedacht, das ist einfach eine Sammlung die gerne [erweitert](https://github.com/lenowac/wiki) werden kann.
 
-## FCK NZS
-- queer denken statt querdenken
+## Antifaschismus
+- The only good nation is vaccination
 - impfschutz statt grenzschutz
+- queer denken statt querdenken
 - 
 
+<br/>
 
 ## Kapitalismuskritik
 - 
 
+<br/>
 
 ## Ziviler ungehorsam
 - cop ärgere dich nicht
@@ -30,6 +33,8 @@ natürlich habe ich mir nicht alle ausgedacht, das ist einfach eine Sammlung die
 
 ### Haus
 - das ist unser haus, ihr kriegt uns hier nicht raus
+
+<br/>
 
 ## Klimagerechtigkeit
 - hoch die hände, energiewende
