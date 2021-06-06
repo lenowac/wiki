@@ -1,7 +1,6 @@
 ---
+title: Start here: Computers
 ---
-
-# ! Start here: Computers
 
 this is a loose collection of digital lifehacks.
 
