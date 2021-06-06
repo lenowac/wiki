@@ -13,7 +13,7 @@ Along the way I ***decided to note*** some things, and here you can find those.
  
 ## Content
  
-[[_selfhosting]] covers linux servers, [[_computers]] is more desktop / end user focussed.
+[[0-selfhosting]] covers linux servers, [[0-computers]] is more desktop / end user focussed.
 If you want more carefully written articles, have a look at my [BLOG](https://blog.decided.to).
  
 [de] [[literatur]] sollte mmn natürlich _IMMER_ sehr umständlich über die UNI VPN kommen. Wenn du welche hast, möchtest du vlt auch deine [[literatur-organisieren]].
