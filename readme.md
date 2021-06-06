@@ -1,30 +1,33 @@
 ---
-modified: 2021-06-03T02:49:08+02:00
+modified: 2021-06-03T17:00:55+02:00
 ---
 
 # Hello!
 
-Over time, I looked up, learned and created some things for various reasons or projects. There are also things I have answered a lot,
-Along the way I decided to take some public notes, here you can find those. 
+Over time, I looked up, learned and created some things for various reasons or projects. There are also things Im tired of answering again.
+
+Along the way I ***decided to note*** some things, and here you can find those.
+
+ 
+<br/>
+ 
+## Content
+ 
+[[_selfhosting]] covers linux servers, [[_computers]] is more desktop / end user focussed.
 If you want more carefully written articles, have a look at my [BLOG](https://blog.decided.to).
-
-IF YOU DONT SEE THE MENU, ROTATE YOUR DEVICE. Its a bug on mobile devices....
-
-<details> <summary> >> conventions </summary>
-
+ 
+[de] [[literatur]] sollte mmn natürlich _IMMER_ sehr umständlich über die UNI VPN kommen. Wenn du welche hast, möchtest du vlt auch deine [[literatur-organisieren]].
+ 
 <br/>
 
-### internal links
+## Languages
+ 
+My default is english, it's easier with IT related stuff. Some notes, depending on the target group, are in german. 
+If you desperatly want to read something, [deepl](https://deepl.com) exists.
+ 
+<br/>
+<br/>
+ 
 
-In case you are wondering WTF those numbers are: they are internal links used by [zettlr](https://zettlr.com).
-
-### Languages
-
-My default will be english, but in case I accidentally wrote in German (\*-de), im not going to spend time translating. Use [deepl](https://deepl.com).
-
-For my fellow germans: blabliblub-de zeigt dass die Datei auf Deutsch ist. Auch hier der Hinweis, dass [deepl](https://deepl.com) existiert.
-
-</details>
-
-<br/><br/>
-<p></p>
+-------
+(c) lenowac 2021 | [license](https://decided.to/license) | [about](https://decided.to/about)
