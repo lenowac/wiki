@@ -19,7 +19,7 @@ If you want more carefully written articles, have a look at my [BLOG](https://bl
  
 <br></br>
 
-## Languages
+<h2>Languages</h2>
  
 My default is english, it's easier with IT related stuff. Some notes, depending on the target group, are in german. 
 If you desperatly want to read something, [deepl](https://deepl.com) exists.
