@@ -10,7 +10,7 @@ Along the way I ***decided to note*** some things, and here you can find those.
 
 <br></br>
  
-## Content
+<h2>Content</h2>
  
 [[0-selfhosting]] covers linux servers, [[0-computers]] is more desktop / end user focussed.
 If you want more carefully written articles, have a look at my [BLOG](https://blog.decided.to). 
