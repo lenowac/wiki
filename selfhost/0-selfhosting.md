@@ -1,6 +1,6 @@
 ---
 id: 20210328205222
-title: 'Start here: Selfhosting'
+title: '! Index Selfhosting'
 created: 2021-03-28T00:00:00+01:00
 keywords: [selfhosting, linux, index]
 modified: 2021-06-03T10:52:53+02:00
