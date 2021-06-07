@@ -7,7 +7,6 @@ Over time, I looked up, learned and created some things for various reasons or p
 
 Along the way I ***decided to note*** some things, and here you can find those.
 
- 
 <br/>
  
 ## Content
