@@ -1,5 +1,5 @@
 ---
-title: ! Index Computers
+title: '! Index Computers'
 ---
 
 this is a loose collection of digital lifehacks.
