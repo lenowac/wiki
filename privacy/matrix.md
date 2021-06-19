@@ -37,26 +37,25 @@ Nun Fragst du dich vielleicht welchen Homeserver du statt matrix.org nehmen soll
 - [fairydust.space](https://fairydust.space/) | ```fairydust.space``` # [CCC](https://www.ccc.de) nah
 - [envs](https://envs.net/) | ```envs.net``` # [CCC Dresden](https://c3d2.de/) nah
 - [tchncs](https://tchncs.de/matrix) | ```tchncs.de``` # sehr zuverlässig
-- [privacytools](https://www.privacytools.io/services/chat/) | ```privacytools.io``` # etwas groß
-
-#### Tech Kollektive / Inis
-
-- [feneas](https://chat.feneas.org/) | ```feneas.org```
-- [activism.international](https://activism.international/#what-is-activisminternational) | ```activism.international``` # [EG](https://www.ende-gelaende.org/) nah; erst [SSO Account](https://cloud.activism.international/apps/registration/) erstellen, dann im matrix client anmelden
-- [systemli](https://www.systemli.org/en/service/matrix/) | ```systemli.org``` # freundlich fragen :)
-- [systemausfall](https://systemausfall.org/dienste/matrix) | ```systemausfall.org``` # freundlich fragen :)
-- [fff.chat]() | ```fff.chat```
 
 #### Ungeprüft
-
-Einzige kriterien sind 100% uptime, eine aktuelle version und kein oder ein großes upload limit. Ich habe aber kein account hier. Probiert sie aber mal aus und sagt bescheid ob die gut sind:
-
+Kriterien bei der recherche waren hohe uptime, eine aktuelle Version und kein oder ein großes upload limit. Ich habe aber kein Account hier. Probier die ruhig mal aus und sag bescheid wie die so sind:
+- [halogen city](https://halogen.city/about/) | ```halogen.chat``` # sieht sehr solide aus
+- [privacytools](https://www.privacytools.io/services/chat/) | ```privacytools.io``` # etwas groß
 - [nitrokey chat](https://www.nitrokey.com/products/nitrochat) | ```nitro.chat```
 - [asra.gr](https://wiki.asra.gr/en:start) | ```asra.gr```
 - [freifunk südholstein](https://freifunk-suedholstein.de/freitrix-freier-datenschutzfreundlicher-messenger/) | ```freitrix.de```
 
 Keine Infos (uptime, version, upload limit) gefunden
 - [untanga riot](https://riot.untanga.org/) | ```untanga.org``` # run by a person from https://systerserver.net/
+
+#### Tech Kollektive / Inis
+Hier gibt's mehr als nur matrix mit einem account. Du musst oft bevor du matrix benutzen kannst ein generelles account erstellen.
+- [feneas](https://chat.feneas.org/) | ```feneas.org``` # offen
+- [activism.international](https://activism.international/#what-is-activisminternational) | ```activism.international``` # offen, incl. 10GB Nextcloud; [EG](https://www.ende-gelaende.org/) nah
+- [systemli](https://www.systemli.org/en/service/matrix/) | ```systemli.org``` # invite oder freundlich fragen :)
+- [systemausfall](https://systemausfall.org/dienste/matrix) | ```systemausfall.org``` # freundlich fragen :)
+- [fff.chat](https://fff.chat) | ```fff.chat``` # Von FFF Deutschland. Lokale OG Admins Fragen :)
 
 <br/>
 
