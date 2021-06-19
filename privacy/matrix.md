@@ -15,15 +15,15 @@ WICHTIG:
 - matrix != element
 - kein matrix.org account machen
 
-1. [Element herunterladen](https://element.io/get-started) bzw [element web](https://app.element.io/?pk_vid=1624108555452221) öffnen
-2. Account bei einem Homeserver erstellen der NICHT matrix.org ist
+- 1 [Element herunterladen](https://element.io/get-started) bzw [element web](https://app.element.io/?pk_vid=1624108555452221) öffnen
+- 2 Account bei einem Homeserver erstellen der NICHT matrix.org ist
 
     2.1: Edit klicken
     ![2.1: Edit klicken](img/matrix-create_acc-edit.png)
 
     2.2: Homeserver URL Eintragen
     ![2.2: Homeserver URL Eintragen](img/matrix-create_acc-homeserver.png)
-3. Keys einrichten (weitere Infos in bei [Verschlüsselung](#verschlüsselung))
+- 3 Keys einrichten (weitere Infos in bei [Verschlüsselung](#verschlüsselung))
 
 Grundsätzlich würde ich von einem Matrix.org Account abraten, weil ein großer Vorteil von Matrix Dezentralisierung ist. Dein Account ist bei einem kleineren Server besser aufgehoben. 
 
@@ -62,9 +62,9 @@ Keine Infos (uptime, version, upload limit) gefunden
 
 ## Verschlüsselung
 
-1. Security key einrichten
-2. SICHER (ohne dass andere rankommen, aber so, dass du IMMER rankommst) abspeichern, zB in einem sicheren Passwortmanager wie [Bitwarden](https://bitwarden.com)
-3. KEY NICHT VERLIEREN!
+- 1 Security key einrichten
+- 2 SICHER (ohne dass andere rankommen, aber so, dass du IMMER rankommst) abspeichern, zB in einem sicheren Passwortmanager wie [Bitwarden](https://bitwarden.com)
+- 3 KEY NICHT VERLIEREN!
 
 Wenn der key fehlt, können alte (verschlüsselte) Nachichten nicht entschlüsselt werden.
 
