@@ -16,6 +16,7 @@
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "none",
   "spellright.language": [
+    "de",
     "en"
   ],
   "spellright.documentTypes": [
