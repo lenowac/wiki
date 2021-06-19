@@ -1,6 +1,21 @@
 # Matrix [de]
 
-## Wieso weshalb warum?
+*dieser guide ist grade stark in Arbeit, sag bescheid wenn dir etwas fehlt :)*
+
+Inhalt:
+
+- Warum Matrix
+- Ersteinrichtung
+- Öffentliche Server
+- Verschlüsselung (Keys und Verifikation)
+- Einrichtung auf Smartphones
+  - Android
+  - IOS
+  - Kein Speicherplatz?
+
+## Warum Matrix
+
+#to-do
 
 - sicher
 - nicht an telefon oder tel-nummer gebunden
@@ -31,6 +46,8 @@ Nun Fragst du dich vielleicht welchen Homeserver du statt matrix.org nehmen soll
 
 <br/>
 
+<br/>
+
 ### Öffentliche Server
 
 - Infoseite | ```Homeserver URL``` # Notizen
@@ -40,22 +57,27 @@ Nun Fragst du dich vielleicht welchen Homeserver du statt matrix.org nehmen soll
 
 #### Ungeprüft
 Kriterien bei der recherche waren hohe uptime, eine aktuelle Version und kein oder ein großes upload limit. Ich habe aber kein Account hier. Probier die ruhig mal aus und sag bescheid wie die so sind:
-- [halogen city](https://halogen.city/about/) | ```halogen.chat``` # sieht sehr solide aus
+
 - [privacytools](https://www.privacytools.io/services/chat/) | ```privacytools.io``` # etwas groß
 - [nitrokey chat](https://www.nitrokey.com/products/nitrochat) | ```nitro.chat```
 - [asra.gr](https://wiki.asra.gr/en:start) | ```asra.gr```
 - [freifunk südholstein](https://freifunk-suedholstein.de/freitrix-freier-datenschutzfreundlicher-messenger/) | ```freitrix.de```
 
 Keine Infos (uptime, version, upload limit) gefunden
+- [halogen city](https://halogen.city/about/) | ```halogen.chat``` # sieht sehr solide aus
 - [untanga riot](https://riot.untanga.org/) | ```untanga.org``` # run by a person from https://systerserver.net/
+- [matrix.cccgoe.de](https://matrix.cccgoe.de) | ```matrix.cccgoe.de``` # CCC Goettingen
+- [matrix.un-hack-bar.de](https://matrix.un-hack-bar.de) | ```matrix.un-hack-bar.de``` # CCC Unna (bei Dortmund)
 
-#### Tech Kollektive / Inis
+### Tech Kollektive / Inis
 Hier gibt's mehr als nur matrix mit einem account. Du musst oft bevor du matrix benutzen kannst ein generelles account erstellen.
 - [feneas](https://chat.feneas.org/) | ```feneas.org``` # offen
 - [activism.international](https://activism.international/#what-is-activisminternational) | ```activism.international``` # offen, incl. 10GB Nextcloud; [EG](https://www.ende-gelaende.org/) nah
 - [systemli](https://www.systemli.org/en/service/matrix/) | ```systemli.org``` # invite oder freundlich fragen :)
 - [systemausfall](https://systemausfall.org/dienste/matrix) | ```systemausfall.org``` # freundlich fragen :)
 - [fff.chat](https://fff.chat) | ```fff.chat``` # Von FFF Deutschland. Lokale OG Admins Fragen :)
+
+<br/>
 
 <br/>
 
@@ -74,6 +96,37 @@ Wenn der key fehlt, können alte (verschlüsselte) Nachichten nicht entschlüsse
 Privatchats sollten immer verschlüsselt werden. Sensible, invite only Gruppenchats auch.
 Öffentlich Gruppen zu verschlüsseln ist absoluter quatsch. In verschlüsselten chats funktionieren viele AppServices nicht (zB poll-bot oder die telegram-bridge).
 
+### Verifikation
+
+#to-do
+
+<br/>
+
+<br/>
+
+## Smartphones
+
+...sind grundsätzlich das absolut unsicherste ÜBERHAUPT und sollten so gar nicht verwendet werden, grade mit dem neuen Abhörgesetz. Aber weil's halt einfach so praktisch ist:
+
+### Android
+
+Auch wenn F-Droid toll ist rate ich zur google play version. Wenn du sehr an Apps wie WhatsApp oder Telegram gewöhnt bist, schau dir mal [schildi chat](https://schildi.chat) an. Das ist element mit paar netten zusatz-features. Dabei aber drauf achten nicht einfach die F-Droid version zu nehmen, sondern vorher (wie auf der Website beschrieben) das repo hinzuzufügen, sonst fehlen push-benachichtigugnen!
+
+FluffyChat gibts auch, finde ich persönlich auch super. Hat aber leider keine Widgets, was etwas unpraktisch ist.
+
+### IOS
+
+Element ist momentan etwas scheiße auf IOS. Wenn etwas nicht funktioniert, überprüfe ob dein matrix an einem SingleSignOn system hängt, bei Tech-Kollektiven ist das oft so. Mein letzter stand war, dass das die app nicht konnte.
+
+Fluffychat kann aber SSO, auch auf IOS.
+
+### Kein Speicherplatz?
+
+Der Webclient [hydrogen](https://hydrogen.element.io/#/login) ist sehr leicht, immerhin ist Wasserstoff das leichteste element. Du musst aber bereits ein Account haben um ihn zu benutzen. Du kannst nur mit H (momentan) weder ein account erstellen noch chats erstellen, aber er ist in rapider Entwicklung.
+Außerdem sollten SSOs vermieden werden.
+
+Wenn alles läuft schau ob H push-benachichtigungen schicken kann und füge sie als Verknüpfung oder PWA zu deiner App Übersicht hinzu.
+
 <br/>
 
 <br/>
@@ -81,3 +134,5 @@ Privatchats sollten immer verschlüsselt werden. Sensible, invite only Gruppench
 ## Feedback / Input
 - verschlüsselung, keys, verifizieren, WTF
 - FFF: sso = einmalanmeldung
+
+Ergänzungen? Ideen? --> Mach gerne ein [Github issue](https://github.com/lenowac/wiki/issues) auf oder schmeiß gleich eine [PR](https://github.com/lenowac/wiki/pulls) hinterher ^^
