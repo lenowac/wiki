@@ -6,7 +6,7 @@
 - nicht an telefon oder tel-nummer gebunden
 - föderiertes netzwerk
 
-</br>
+<br/>
 
 ## Ersteinrichtung
 
@@ -25,7 +25,7 @@ WICHTIG: matrix != element
 
 Nun fragst du dich villeicht welchen homeserver du statt matrix.org nehmen solltest.
 
-</br>
+<br/>
 
 ### Öffentliche Server
 
@@ -54,7 +54,7 @@ Einzige kriterien sind 100% uptime, eine aktuelle version und kein oder ein gro�
 Keine Infos (uptime, version, upload limit) gefunden
 - [riot.untanga.org](https://riot.untanga.org/) | ```untanga.org``` # run by a person from https://systerserver.net/
 
-</br>
+<br/>
 
 ## Verschlüsselung
 
@@ -71,9 +71,9 @@ Wenn der key fehlt, können alte (verschlüsselte) Nachichten nicht entschlüsse
 Privatchats sollten immer verschlüsselt werden. Sensible, invite only Gruppenchats auch.
 Öffentlich Gruppen zu verschlüsseln ist absoluter quatsch. In verschlüsselten chats funktionieren viele appservices nicht (zB poll-bot oder die telegram-bridge).
 
-</br>
+<br/>
 
-</br>
+<br/>
 
 ## Feedback / Input
 - verschlüsselung, keys, verifizieren, WTF
