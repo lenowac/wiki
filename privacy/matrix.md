@@ -21,6 +21,8 @@ Inhalt:
 - nicht an telefon oder tel-nummer gebunden
 - föderiertes netzwerk
 
+es ist einfacher zu erklären was an allen anderen scheiße ist. [Hier ein text dazu](https://blog.decided.to/25576/messengerdebatte)
+
 <br/>
 
 ## Ersteinrichtung
