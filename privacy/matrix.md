@@ -53,16 +53,16 @@ Nun Fragst du dich vielleicht welchen Homeserver du statt matrix.org nehmen soll
 ### Öffentliche Server
 
 - Infoseite | ```Homeserver URL``` # Notizen
-- [fairydust.space](https://fairydust.space/) | ```fairydust.space``` # [CCC](https://www.ccc.de) nah
-- [envs](https://envs.net/) | ```envs.net``` # [CCC Dresden](https://c3d2.de/) nah
-- [tchncs](https://tchncs.de/matrix) | ```tchncs.de``` # sehr zuverlässig
+- [fairydust.space](https://fairydust.space/) | ```fairydust.space``` # sehr [CCC](https://www.ccc.de) nah
+- [envs](https://envs.net/) | ```envs.net``` # [CCC Dresden](https://c3d2.de/) und [FFDD](https://freifunk-dresden.de) nah
+- [tchncs](https://tchncs.de/matrix) | ```tchncs.de``` # auch recht zuverlässig
 
 #### Ungeprüft
 Kriterien bei der recherche waren hohe uptime, eine aktuelle Version und kein oder ein großes upload limit. Ich habe aber kein Account hier. Probier die ruhig mal aus und sag bescheid wie die so sind:
 
+- [asra.gr](https://wiki.asra.gr/en:start) | ```asra.gr``` # hackspaces.org nah, anarchie icon
 - [privacytools](https://www.privacytools.io/services/chat/) | ```privacytools.io``` # etwas groß
 - [nitrokey chat](https://www.nitrokey.com/products/nitrochat) | ```nitro.chat```
-- [asra.gr](https://wiki.asra.gr/en:start) | ```asra.gr```
 - [freifunk südholstein](https://freifunk-suedholstein.de/freitrix-freier-datenschutzfreundlicher-messenger/) | ```freitrix.de```
 
 Keine Infos (uptime, version, upload limit) gefunden
@@ -85,22 +85,40 @@ Hier gibt's mehr als nur matrix mit einem account. Du musst oft bevor du matrix 
 
 ## Verschlüsselung
 
-- 1 Security key einrichten
-- 2 SICHER (ohne dass andere rankommen, aber so, dass du IMMER rankommst) abspeichern, zB in einem sicheren Passwortmanager wie [Bitwarden](https://bitwarden.com)
-- 3 KEY NICHT VERLIEREN!
+In matrix gibt es drei keys (master, user, gerät), praktischerweise musst du dich nur um einen kümmern. Das ist aber recht easy, außer wenn du deinen security key verschlampst und zusätzlich keine aktiven sessions mehr hast.
+
+Das musst du machen:
+- 1 Security key einrichten (beim ersten setup oder manuell in den Einstellungen/Sicherheit)
+- 2 Diese SICHER (ohne dass andere rankommen, aber so, dass du immer rankommst) abspeichern, zB in einem sicheren Passwortmanager wie [Bitwarden](https://bitwarden.com)
+- 3 KEYs NICHT VERLIEREN!
 
 Wenn der key fehlt, können alte (verschlüsselte) Nachichten nicht entschlüsselt werden.
 
 ![lost-keys](./img/matrix-lost_keys.png)
 
+### Warum so kompliziert
+
+Nachrichten werden lokal auf dem gerät verschlüsselt, aber andere geräte in deinem account brauchen diese keys damit sie die Nachichten deiner anderen geräte lesen können. Mit dem Security key machst du ein verschlüsseltes backup der geräte keys. Gleichzeitig muss ein gerät dieses backup auch lesen können, also muss es auch die keys erhalten.
+
+Praktisch: So können leute die an deine account daten kommen nicht gleich alte nachichten entschlüsseln. Sollten angreifer versuchen den security key zurückzusetzen können die angreifende mit dem neuen key nicht die alten gerätekeys verwenden, weil sie ja mit dem alten security key verschlüsselt wurden. Deine nachichten sind also seeeehr sicher.
+
+Für den fall dass du deinen key verschlampst (passiert den besten) solltest du von allen aktiven geräten die lokalen E2E keys als datei exportieren bevor du einen neuen security key generierst. Danach importierst du einfach die datei und die historie sollte wieder lesbar sein.
+
+Wenn du das nicht machst (zb wenn dein gerät weg ist) dann kannst du mit den alten keys verschlüsselte Nachichten nicht lesen.
+
+Für den fall, dass ein gerät eingesackt wird kannst du die entsprechende session zb vom PC aus sperren.
+
+Um auf das warum zurück zu kommen: damit, auch wenn dein account oder ein gerät teilweise geknackt wurde, der chatverlauf noch sicher ist.
+
 ### Sinnhaftigkeit von Verschlüsselung
 
 Privatchats sollten immer verschlüsselt werden. Sensible, invite only Gruppenchats auch.
-Öffentlich Gruppen zu verschlüsseln ist absoluter quatsch. In verschlüsselten chats funktionieren viele AppServices nicht (zB poll-bot oder die telegram-bridge).
+
+Öffentlich Gruppen zu verschlüsseln ist aber absoluter quatsch, denn (a) alle müssen für alle verschlüsseln, was ein heidenaufwand und riesiger keyaustausch ist und (b) in verschlüsselten chats funktionieren viele spaßige AppServices nicht (zB poll-bot oder die telegram-bridge).
 
 ### Verifikation
 
-#to-do
+Du kannst mit anderen die Keys über emojis oder einen QR code scan abgleichen und so sicher sein, dass der account auch wirklich zu der person gehört für die du sie hälst.
 
 <br/>
 
