@@ -1,31 +1,38 @@
 # Matrix [de]
 
-*dieser guide ist grade stark in Arbeit, sag bescheid wenn dir etwas fehlt :)*
-
 Inhalt:
 
-- Generelles
-- Ersteinrichtung
-- Öffentliche Server
-- Verschlüsselung (Keys und Verifikation)
-- Einrichtung auf Smartphones
+- [Generelles](#Generelles)
+- [Ersteinrichtung](#Ersteinrichtung)
+  - [Öffentliche Server](#Offentliche-Server)
+  - Tech-Kollektive / Inis
+- [Verschlüsselung](#Verschlusselung)
+- [Einrichtung auf Smartphones](#Smartphones)
   - Android
   - IOS
-  - Kein Speicherplatz?
+  - [Kein Speicherplatz?](#Kein-Speicherplatz)
+
+<br/>
 
 ## Generelles
+
+**Matrix != Element.** Das führt verständlicherweise oft zu Verwirrung. Matrix ist das Protokoll, also wie Nachichten versendet werden. Es gibt aber viele clients womit das protokoll benutzt wird, zB Element, Fluffy, Schildi und nheko. Kein Mensch sagt "ich schick dir 'ne thunderbird nachicht" sondern es wird von eMail geredet, also dem Protokoll und nicht dem client. Mit Matrix ist also das protokoll gemeint, mit Element den client.
+
 [...über Matrix und Element](https://www.kuketz-blog.de/element-messaging-ueber-die-matrix-messenger-teil7/).
 
 Zum Warum: [ein Vergleich mit anderen Messengern](https://blog.decided.to/25576/messengerdebatte).
+
+**Signal** ist eine starke Alternative, dank der zero-knowledge-archtektur fallen fast keine metadaten an. ABER: 
+- es ist zwingend an eine Telefonnummer (damit eindeutig an eine Person) und ein Telefon (unsicher) gebunden,
+- es ist zentralisiert (was dem Autonomen Gedanken wiederspricht), 
+- eine schnittstelle zu öffentlichen Telegram gruppen kann nicht mal so eben eingerichtet werden.
+- keine freie Software, sondern nur quelloffen.
 
 <br/>
 
 ## Ersteinrichtung
 
 Ich werde hier die schritte für element beschreiben. Es gibt aber auch andere gute clients, zB SchildiChat (basiert auf element) und FluffyChat (minimalistischer). 
-WICHTIG: 
-- matrix != element
-- kein matrix.org account machen
 
 - 1 [Element herunterladen](https://element.io/get-started) bzw [element web](https://app.element.io/?pk_vid=1624108555452221) öffnen
 - 2 Account bei einem Homeserver erstellen der NICHT matrix.org ist
@@ -105,7 +112,7 @@ Für den fall dass du deinen key verschlampst (passiert den besten) solltest du 
 
 ![](./img/matrix-setting-session.png)
 
-Wenn du das nicht machst (zb wenn dein gerät weg ist) dann kannst du mit den alten keys verschlüsselte Nachichten nicht lesen.
+Wenn du das nicht machst (zb wenn dein gerät weg ist) dann kannst du mit den alten keys verschlüsselte Nachichten nicht lesen (siehe oben).
 
 Für den fall, dass ein gerät eingesackt wird kannst du die entsprechende session zb vom PC aus sperren.
 ![](./img/matrix-setting-devices.png)
@@ -128,32 +135,37 @@ Du kannst mit anderen die Keys über emojis oder einen QR code scan abgleichen u
 
 ## Smartphones
 
-...sind grundsätzlich das absolut unsicherste ÜBERHAUPT und sollten so gar nicht verwendet werden, grade mit dem neuen Abhörgesetz. Aber weil's halt einfach so praktisch ist:
+...sind grundsätzlich das absolut unsicherste ÜBERHAUPT und sollten für kritischen kram eigentlich so gar nicht verwendet werden, grade mit dem neuen Abhörgesetz. Aber weil's halt einfach so praktisch ist:
 
 ### Android
 
-Auch wenn F-Droid toll ist rate ich zur google play version. Wenn du sehr an Apps wie WhatsApp oder Telegram gewöhnt bist, schau dir mal [schildi chat](https://schildi.chat) an. Das ist element mit paar netten zusatz-features. Dabei aber drauf achten nicht einfach die F-Droid version zu nehmen, sondern vorher (wie auf der Website beschrieben) das repo hinzuzufügen, sonst fehlen push-benachichtigugnen!
+[Element](https://play.google.com/store/apps/details?id=im.vector.app) ist der Standard. Es gibt auch eine [F-Droid version](https://f-droid.org/en/packages/im.vector.app/), aber die bekommt keine Push benachichtigungen, sondern fragt in abständen den server nach neuen Nachichten, das zieht viel Akku. 
 
-FluffyChat gibts auch, finde ich persönlich auch super. Hat aber leider keine Widgets, was etwas unpraktisch ist.
+Wenn du sehr an Apps wie WhatsApp oder Telegram gewöhnt bist, schau dir mal [SchildiChat](https://schildi.chat) an. Das ist Element mit paar netten zusatz-features. Dabei aber drauf achten nicht einfach die normale F-Droid version zu nehmen, sondern vorher (wie [auf der Website beschrieben](https://schildi.chat/android/install-from-sc-fdroid/)) das repo hinzuzufügen, sonst fehlen (wie bei element fd) die push-benachichtigungen!
+
+[FluffyChat](https://play.google.com/store/apps/details?id=chat.fluffy.fluffychat) gibts auch, finde ich persönlich auch super. Hat aber leider keine Raum-Widgets, was etwas unpraktisch ist. Hat aber schon eine implementation für Sprachnachichten, was bei Element noch in Arbeit ist. [F-Droid Version](https://fluffychat.im/en/fdroid.html) gibts natürlich auch hier.
 
 ### IOS
 
-Element ist momentan etwas scheiße auf IOS. Wenn etwas nicht funktioniert, überprüfe ob dein matrix an einem SingleSignOn system hängt, bei Tech-Kollektiven ist das oft so. Mein letzter stand war, dass das die app nicht konnte.
+[Element](https://apps.apple.com/app/vector/id1083446067) ist momentan etwas scheiße auf IOS. Wenn etwas nicht funktioniert, überprüfe ob dein Matrix account an einem Single-Sign-On system hängt, bei tech-kollektiven ist das oft so. Mein letzter stand war, dass das die IOS-App SSO noch nicht konnte.
 
-Fluffychat kann aber SSO, auch auf IOS.
+[Fluffychat](https://apps.apple.com/app/fluffychat/id1551469600) kann aber SSO, auch auf IOS.
 
 ### Kein Speicherplatz?
 
-Der Webclient [hydrogen](https://hydrogen.element.io/#/login) ist sehr leicht, immerhin ist Wasserstoff das leichteste element. Du musst aber bereits ein Account haben um ihn zu benutzen. Du kannst nur mit H (momentan) weder ein account erstellen noch chats erstellen, aber er ist in rapider Entwicklung.
-Außerdem sollten SSOs vermieden werden.
+Der (noch sehr neue) mobile-first Webclient [Hydrogen](https://hydrogen.element.io/#/login) ist sehr schnell geladen und braucht keine installation, Mensch könnte sagen er ist leicht. Mmn sehr passend, immerhin ist Wasserstoff das leichteste element. 
 
-Wenn alles läuft schau ob H push-benachichtigungen schicken kann und füge sie als Verknüpfung oder PWA zu deiner App Übersicht hinzu.
+Wichtig: du musst die session manuell verifizieren, also deinen security key in den Einstellungen einfügen.
+Wenn alles läuft schau ob Hydrogen push-benachichtigungen schicken darf und füge die Seite als Verknüpfung oder [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) zu deiner App Übersicht hinzu.
+
+Limitationen: Du musst bereits ein Account haben um ihn zu benutzen. Du kannst mit Hydrogen (momentan) leider weder ein account erstellen, noch chats erstellen. Das ist aber in Arbeit. Außerdem sollten SSO-Systeme vermieden werden.
+
+Tipp: verwende nicht google chrome, sondern einen freien browser wie [Bromite](https://www.bromite.org/fdroid) oder [libre Firefox](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/). Trackt weniger was du machst :)
 
 <br/>
 
 <br/>
 
 ## Anmerkungen / Feedback / Input 
-- bei Clouds wie FFF: Single-Sign-On (SSO) heißt da "Einmalanmeldung"
 
 Fehler gefunden? Ergänzungen? Ideen? --> Ich freue mich über ein [Github issue](https://github.com/lenowac/wiki/issues) oder gleich eine [Pull Request](https://github.com/lenowac/wiki/pulls) ^^
