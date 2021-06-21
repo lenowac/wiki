@@ -158,8 +158,7 @@ Wenn alles läuft schau ob H push-benachichtigungen schicken kann und füge sie 
 
 <br/>
 
-## Feedback / Input
-- verschlüsselung, keys, verifizieren, WTF
-- FFF: sso = einmalanmeldung
+## Anmerkungen / Feedback / Input 
+- bei Clouds wie FFF: Single-Sign-On (SSO) heißt da "Einmalanmeldung"
 
-Ergänzungen? Ideen? --> Mach gerne ein [Github issue](https://github.com/lenowac/wiki/issues) auf oder schmeiß gleich eine [PR](https://github.com/lenowac/wiki/pulls) hinterher ^^
+Fehler gefunden? Ergänzungen? Ideen? --> Ich freue mich über ein [Github issue](https://github.com/lenowac/wiki/issues) oder gleich eine [Pull Request](https://github.com/lenowac/wiki/pulls) ^^
