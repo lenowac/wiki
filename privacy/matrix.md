@@ -92,6 +92,10 @@ Das musst du machen:
 - 2 Diese SICHER (ohne dass andere rankommen, aber so, dass du immer rankommst) abspeichern, zB in einem sicheren Passwortmanager wie [Bitwarden](https://bitwarden.com)
 - 3 KEYs NICHT VERLIEREN!
 
+Idealerweise sollten deine Sicherheitseinstellungen in element etwa so aussehen:
+![](./img/matrix-setting-cross_signing.png)
+![](./img/matrix-setting-secure_backup.png)
+
 Wenn der key fehlt, können alte (verschlüsselte) Nachichten nicht entschlüsselt werden.
 
 ![lost-keys](./img/matrix-lost_keys.png)
@@ -104,9 +108,12 @@ Praktisch: So können leute die an deine account daten kommen nicht gleich alte 
 
 Für den fall dass du deinen key verschlampst (passiert den besten) solltest du von allen aktiven geräten die lokalen E2E keys als datei exportieren bevor du einen neuen security key generierst. Danach importierst du einfach die datei und die historie sollte wieder lesbar sein.
 
+![](./img/matrix-setting-session.png)
+
 Wenn du das nicht machst (zb wenn dein gerät weg ist) dann kannst du mit den alten keys verschlüsselte Nachichten nicht lesen.
 
 Für den fall, dass ein gerät eingesackt wird kannst du die entsprechende session zb vom PC aus sperren.
+![](./img/matrix-setting-devices.png)
 
 Um auf das warum zurück zu kommen: damit, auch wenn dein account oder ein gerät teilweise geknackt wurde, der chatverlauf noch sicher ist.
 
@@ -118,7 +125,7 @@ Privatchats sollten immer verschlüsselt werden. Sensible, invite only Gruppench
 
 ### Verifikation
 
-Du kannst mit anderen die Keys über emojis oder einen QR code scan abgleichen und so sicher sein, dass der account auch wirklich zu der person gehört für die du sie hälst.
+Du kannst mit anderen die Keys über emojis oder einen QR code scan abgleichen und so sicher sein, dass der account und seine keys auch wirklich zu der person gehört für die du sie hälst.
 
 <br/>
 
