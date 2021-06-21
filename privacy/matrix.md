@@ -16,7 +16,7 @@ Inhalt:
 
 ## Generelles
 
-**Matrix != Element.** Das führt verständlicherweise oft zu Verwirrung. Matrix ist das Protokoll, also wie Nachichten versendet werden. Es gibt aber viele clients womit das protokoll benutzt wird, zB Element, Fluffy, Schildi und nheko. Kein Mensch sagt "ich schick dir 'ne thunderbird nachicht" sondern es wird von eMail geredet, also dem Protokoll und nicht dem client. Mit Matrix ist also das protokoll gemeint, mit Element den client.
+**Matrix != Element.** Das führt verständlicherweise oft zu Verwirrung. Matrix ist das Protokoll, also wie Nachichten versendet werden. Es gibt aber viele clients womit das protokoll benutzt wird, zB Element, Fluffy, Schildi und nheko. Kein Mensch sagt "ich schick dir 'ne thunderbird nachicht" sondern es wird von eMail geredet, also dem Protokoll und nicht dem client. Mit Matrix ist also das protokoll gemeint, mit Element der client.
 
 [...über Matrix und Element](https://www.kuketz-blog.de/element-messaging-ueber-die-matrix-messenger-teil7/).
 
