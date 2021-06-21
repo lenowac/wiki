@@ -4,7 +4,7 @@
 
 Inhalt:
 
-- Warum Matrix
+- Generelles
 - Ersteinrichtung
 - Öffentliche Server
 - Verschlüsselung (Keys und Verifikation)
@@ -13,15 +13,10 @@ Inhalt:
   - IOS
   - Kein Speicherplatz?
 
-## Warum Matrix
+## Generelles
+[...über Matrix und Element](https://www.kuketz-blog.de/element-messaging-ueber-die-matrix-messenger-teil7/).
 
-#to-do
-
-- sicher
-- nicht an telefon oder tel-nummer gebunden
-- föderiertes netzwerk
-
-es ist einfacher zu erklären was an allen anderen scheiße ist. [Hier ein text dazu](https://blog.decided.to/25576/messengerdebatte)
+Zum Warum: [ein Vergleich mit anderen Messengern](https://blog.decided.to/25576/messengerdebatte).
 
 <br/>
 
