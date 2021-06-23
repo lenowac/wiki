@@ -24,7 +24,16 @@ There are also server variants without a graphical user interface which power mo
 
 ### Pick a Distro
 
-Id recommend [popOS](https://pop.system76.com/): its updated very fast and regularly by the company behind it (system 76), is [documented](https://support.system76.com/#pop) fairly well has the option for preinstalled nvidia drivers and uses the common ".deb" packaging system and has an easy to use [gnome](https://www.gnome.org) desktop. It also makes it very easy to encrypt your disk during the setup.
+If you just need a disposable, safe enviroment and store your data in clouds like cryptpad, GO FOR [TAILS](https://tails.boum.org).
+
+If you want a permanent solution, I'd recommend [popOS](https://pop.system76.com/) because it
+- is updated very fast and regularly by the [company behind it](https://system76.com/about), 
+- is [documented](https://support.system76.com/#pop) fairly well, 
+- has the option for preinstalled nvidia drivers,
+- uses the common ".deb" packaging system and 
+- has a modern, yet easy to use [gnome](https://www.gnome.org) desktop. 
+
+It also makes it very easy to encrypt your disk during the setup. 
 
 ### Install it
 
@@ -38,12 +47,11 @@ Tips:
 - dont install it on the same disk as windows, unless you want to replace windows
 - if you have trouble at any point, use google or youtube
 
-### The Terminal
+## The Terminal
 
-Dont copy paste commands without looking up what they do.
-Be especially careful if the involve the words "root", "sudo", "rm" or "-r".
+Don't copy paste commands without looking up what they do. Be especially careful if the involve the words/options " / " (as a path), "root", "rm" or "-r". Dont do shit through "sudo -i", you may fuck up shit badly without any safeguards.
 
-### Workarounds
+## Workarounds
 
 Because of its open nature, some close source libraries or features may not work out of the box. To fix that its usually enough to do a quick search online.
 
@@ -60,9 +68,7 @@ Pop OS comes with the essentials preinstalled, however there are some nice thing
 Eolie Browser -
 Gnome Photos - [Info](https://wiki.gnome.org/Apps/Photos)
 
-### Security
-
-Gnome Password Safe is a pretty nice keepass app
+Gnome Password Safe is a pretty neat keepass app, personally I always use bitwarden.
 
 ### Creative
 
