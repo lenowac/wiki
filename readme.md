@@ -4,19 +4,25 @@ modified: 2021-06-07
 
 # Hello!
 
-Over time, I looked up, learned and created some things for various reasons or projects. There are also things Im tired of answering again.    
+Over time, I looked up, learned and created some things for various reasons or projects. Along the way I ***decided to note*** some things, and here you can find those.    
 
-Along the way I ***decided to note*** some things, and here you can find those.    
+This includes documentation, small guides, a quick overview about topics and also serves as a FAQ space for things I'm tired of answering again.    
 
-    
+
+I have to pay for (ridiciously expensive) domains and servers while taking the time off to write stuff.    
+So yea, im totally gonna bag for your [financial support](https://liberapay.com/lenowac) \<3 \^\^
+
  
 ## Content
  
 [[0-selfhosting]] covers linux servers, [[0-computers]] is more desktop / end user focussed.
 If you want more carefully written articles, have a look at my [BLOG](https://blog.decided.to).    
  
+### German stuff
+
 [[literatur]] sollte mmn natürlich _IMMER_ sehr umständlich über die UNI VPN kommen. Wenn du welche hast, möchtest du vlt auch deine [[literatur-organisieren]].    
- 
+
+Für sichere Kommunikation ist [[matrix]] eine super Sache.
     
 
 ## Languages
