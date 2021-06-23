@@ -166,6 +166,27 @@ Tipp: verwende nicht google chrome, sondern einen freien browser wie [Bromite](h
 
 <br/>
 
+## Probleme / Troubleshooting
+
+### This message was not encrypted for your device
+Encryption keys verschlampt. Schau ob (a) cross signing aktiviert ist (b) du auf einem anderen Gerät die Nachichten lesen kannst, wenn ja exportiere die e2e keys. Ggf hast du nie einen security key eingerichtet damit die e2e keys zwischen geräten ge-backupt werden können. Siehe [Verschlüsselung](#Verschlusselung)
+
+### Widget: 403 Forbidden
+
+Das kann an striktem verbieten von cross-site cookies im webbrowser leigen. Mach eine Ausnahme für enhanced tracking protection in firefox für den webclient.
+
+### Widgets setzen geht nicht
+
+Ja, standardmäßig können das nur menschen ab power level 50 (moderator). Sag einer person die room permissions ändern kann bescheid, dass das auf PL 0 (Default) geändert werden sollte.
+
+### Ich bekomme keine Beanchichtigungen
+
+Du hast safe die falsche app geladen, checke nochmal bei [Smartphones/Android](#Android) ob du die richtige App geladen hast. Bei Hydrogen oder Element-Web: schau in [Smartphones/Kein Speicher](#Kein-Speicherplatz) ob du der Website erlaubt hast Benachichtigungen zu senden.
+
+<br/>
+
+<br/>
+
 ## Anmerkungen / Feedback / Input 
 
 Fehler gefunden? Ergänzungen? Ideen? --> Ich freue mich über ein [Github issue](https://github.com/lenowac/wiki/issues) oder gleich eine [Pull Request](https://github.com/lenowac/wiki/pulls) ^^
