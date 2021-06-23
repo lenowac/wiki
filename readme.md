@@ -10,7 +10,7 @@ This includes documentation, small guides, a quick overview about topics and als
 
 
 I have to pay for (ridiciously expensive) domains and servers while taking the time off to write stuff.    
-So yea, im totally gonna bag for your [financial support](https://liberapay.com/lenowac) \<3 \^\^
+So yea, im totally gonna bag for your [financial support](https://liberapay.com/lenowac) <3 ^^
 
  
 ## Content
