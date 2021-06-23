@@ -30,8 +30,8 @@ If you want a permanent solution, I'd recommend [popOS](https://pop.system76.com
 - is updated very fast and regularly by the [company behind it](https://system76.com/about), 
 - is [documented](https://support.system76.com/#pop) fairly well, 
 - has the option for preinstalled nvidia drivers,
-- uses the common ".deb" packaging system and 
-- has a modern, yet easy to use [gnome](https://www.gnome.org) desktop. 
+- uses the common ".deb" packaging system + has [flathub packages](https://flathub.org/home) in the appcenter out of the box and 
+- utilizes a modern, yet easy to use [gnome](https://www.gnome.org) desktop. 
 
 It also makes it very easy to encrypt your disk during the setup. 
 
