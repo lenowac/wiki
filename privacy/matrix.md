@@ -181,7 +181,7 @@ Ja, standardmäßig können das nur menschen ab power level 50 (moderator). Sag 
 
 ### Ich bekomme keine Beanchichtigungen
 
-Du hast safe die falsche app geladen, checke nochmal bei [Smartphones/Android](#Android) ob du die richtige App geladen hast. Bei Hydrogen oder Element-Web: schau in [Smartphones/Kein Speicher](#Kein-Speicherplatz) ob du der Website erlaubt hast Benachichtigungen zu senden.
+Du hast safe die falsche app geladen, checke nochmal bei [Smartphones/Android](#Android) ob du die richtige App geladen hast. Bei Hydrogen oder Element-Web: schau in [Smartphones/Kein Speicher](#Kein-Speicherplatz) ob du der Website erlaubt hast Benachichtigungen zu senden (WTF wie geht das: [FF Desktop](https://support.mozilla.org/en-US/kb/push-notifications-firefox) / [FF Mobile](https://support.mozilla.org/en-US/kb/manage-notifications-firefox-android) | Bei anderen browsern ähnlich).
 
 <br/>
 
