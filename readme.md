@@ -13,7 +13,7 @@ I have to pay for (ridiciously expensive) domains and servers while taking the t
 So yea, im totally gonna bag for your [financial support](https://liberapay.com/lenowac) <3 ^^
 
 <br/>
- 
+
 ## Content
  
 [[0-selfhosting]] covers linux servers, [[0-computers]] is more desktop / end user focussed.
