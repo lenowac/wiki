@@ -3,7 +3,7 @@
 
 [Documentation](https://docs.microsoft.com/en-us/windows/powertoys/) | [Get them here](https://github.com/microsoft/PowerToys#microsoft-powertoys)
 
-<details><summary> >> A quick overview on what it can be done shamelessly copied from the Documentation for your convinience: </summary>
+<details><summary> <b>>> A quick overview on what it can be done shamelessly copied from the Documentation for your convinience: </b> </summary>
 
 ## Color Picker
 
@@ -58,6 +58,8 @@
 <br/>
 
 </details>
+
+<br/>
 
 IMO [Awake](https://den.dev/blog/powertoys-awake/) is really nice for DJing or rendering big projects (I hate switching power profiles for that), but its not even listed prominently.
 
