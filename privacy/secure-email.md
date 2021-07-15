@@ -10,7 +10,7 @@ keywords:
 
 # Privacy focused eMail
 
-TL,DR: eMail is shit, even encrypted one. Use [[matrix]] if you can.    
+TL,DR: eMail is a shitty protocol, even encrypted mail sucks. Depending on the usecase, go use briar, signal or [[matrix]].    
 If you have to use eMail, be careful: even "secure" providers like protonmail may be legally forced to corrupt your security.   
 
 --> Look for a local tech collective like systemli or riseup.
