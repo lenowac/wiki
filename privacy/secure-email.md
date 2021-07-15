@@ -10,6 +10,11 @@ keywords:
 
 # Privacy focused eMail
 
+TL,DR: eMail is shit, even encrypted one. Use [[matrix]] if you can.    
+If you have to use eMail, be careful: even "secure" providers like protonmail may be legally forced to corrupt your security.   
+
+--> Look for a local tech collective like systemli or riseup.
+
 ### Basic terms
 
 You should know what those are:
@@ -32,7 +37,7 @@ There are many explanaitions online why you shouldnt.
 ### Own server, own domain
 
 - A fucking PAIN in the ass to maintain
-- usually an absolute security nightmare.
+- usually a security nightmare
 - domain can be easily linked to you
 - will be IP blocked by most spam filters
 
