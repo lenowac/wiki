@@ -15,11 +15,11 @@ modified: 2021-06-03T10:52:53+02:00
 * [[system-security]]
 
 ### Setup applications:
-* [[setup-packages-de.md]]
-* [[container-apps-docker.md]]
-* [[reverse-proxy.md]]
+* [[setup-packages-de]]
+* [[container-apps-docker]]
+* [[reverse-proxy]]
 
-* [[container-system-lxd.md]]
+* [[container-system-lxd]]
 
 ### Maintenance tips:
-* [[random-tips.md]]
+* [[random-tips]]
