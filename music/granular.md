@@ -1,6 +1,6 @@
 # Granular Synthesis
 
-Personally im fascinated with granular sounds. This is an ongoing collection of great software I came across (ordered awesomeness):
+Personally im fascinated with granular sounds. This is an ongoing collection of great software I came across (grouped by type, ordered by awesomeness):
 
 <br/>
 
