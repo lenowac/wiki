@@ -1,6 +1,5 @@
 ---
 id: 20210328204734
-title: "Setup a reverse-proxy"
 created: 2021-01-14
 keywords:
   - selfhosting
