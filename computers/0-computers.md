@@ -4,13 +4,17 @@ title: '! Index Computers'
 
 this is a loose collection of digital lifehacks.
 
-* using custom shortcuts with ahk: [[win+w-close]]
+* Creating a less toxic [[twitter]] experience
+* reclaim your communication with [[matrix]]
 
 ## Systems
-* Making not-apple hardware run macOS: [[hackintosh]]
-* Making linux on windows better: [[wsl-stuff]]
+* [[Hackintosh]] - making non-apple hardware run macOS
+* Windows - better wsl experience: [[wsl-stuff]]
   * running linux on windows at startup
   * mounting external storages
+* Windows - fix default shortcomings: [[Windows PowerToys]]
+* Windows - custom shortcuts with ahk: [[win+w-close]]
+* get to know [[Awesome Linux]] tooling
 
 ## Abusing git for notes
 * lazy batch scripts to automate git actions: [[win_git-pull_git-push]]
