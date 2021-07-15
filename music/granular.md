@@ -36,16 +36,18 @@ Personally im fascinated with granular sounds. This is an ongoing collection of 
 I havent tried those yet, so I wont vouch for their awesomeness.
 
 - [Soundgrain](http://ajaxsoundstudio.com/software/soundgrain/) (foss)
-- [Fragment Synth](https://www.fsynth.com/)
-- New Sonics Arts Granite
+- [New Sonics Arts Granite](https://www.newsonicarts.com/html/granite.php)
 - [Steinberg Padshop](https://new.steinberg.net/de/vst-instruments/padshop/)
-- [Alchemey](https://www.kvraudio.com/product/alchemy-by-camel-audio) (sadly aquired by Apple, fuck em)
-- Sound Particles
-- [Quilcom Harvester](https://freevstplugins.net/quilcom-harvester/) (free)
+- [Sandman](https://www.unfilteredaudio.com/products/sandman)
+- [Granulab](https://www.kvraudio.com/product/granulab-vst-by-ostinato) (free)
+- [Soundhack Bubbler](http://www.soundhack.com/freeware/) (free)
+- [Fragment Synth](https://www.fsynth.com/) (free)
 - [Quilcom Caster](https://freevstplugins.net/quilcom-caster/) (free)
-- [NDC Fragmental](http://www.niallmoody.com/ndcplugs/fragmental.htm)
-- [Granulab](https://www.kvraudio.com/product/granulab-vst-by-ostinato)
+- [Quilcom Harvester](https://freevstplugins.net/quilcom-harvester/) (free)
+- [NDC Fragmental](http://www.niallmoody.com/ndcplugs/fragmental.htm) (free)
 - [Atomiccloud](http://atomiccloud.gersic.com/index.html)
+- [Alchemey](https://www.kvraudio.com/product/alchemy-by-camel-audio) (sadly aquired by Apple, fuck em)
+
 
 <br/>
 
